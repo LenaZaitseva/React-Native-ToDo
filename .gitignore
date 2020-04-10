@@ -76,12 +76,6 @@ buck-out/
 */fastlane/Preview.html
 */fastlane/screenshots
 
-# TypeScript
-#
-lib/
-
-src/**/*.js
-
 # Jest
 #
 .jest/
